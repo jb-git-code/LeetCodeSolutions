@@ -7,8 +7,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/jb-git-code/LeetCodeSolutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0455-assign-cookies](https://github.com/jb-git-code/LeetCodeSolutions/tree/master/0455-assign-cookies) |
 ## Binary Search
 |  |
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/jb-git-code/LeetCodeSolutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/jb-git-code/LeetCodeSolutions/tree/master/0455-assign-cookies) |
+## Greedy
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/jb-git-code/LeetCodeSolutions/tree/master/0455-assign-cookies) |
+## Sorting
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/jb-git-code/LeetCodeSolutions/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
