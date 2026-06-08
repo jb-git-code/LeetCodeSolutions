@@ -15,12 +15,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/jb-git-code/LeetCodeSolutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/jb-git-code/LeetCodeSolutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/jb-git-code/LeetCodeSolutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1539-kth-missing-positive-number](https://github.com/jb-git-code/LeetCodeSolutions/tree/master/1539-kth-missing-positive-number) |
 ## Binary Search
 |  |
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/jb-git-code/LeetCodeSolutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/jb-git-code/LeetCodeSolutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/jb-git-code/LeetCodeSolutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1539-kth-missing-positive-number](https://github.com/jb-git-code/LeetCodeSolutions/tree/master/1539-kth-missing-positive-number) |
 ## Two Pointers
 |  |
 | ------- |
