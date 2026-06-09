@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/jb-git-code/LeetCodeSolutions/tree/master/0039-combination-sum) |
 | [0045-jump-game-ii](https://github.com/jb-git-code/LeetCodeSolutions/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/jb-git-code/LeetCodeSolutions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/jb-git-code/LeetCodeSolutions/tree/master/0055-jump-game) |
@@ -80,4 +81,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/jb-git-code/LeetCodeSolutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+## Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/jb-git-code/LeetCodeSolutions/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
