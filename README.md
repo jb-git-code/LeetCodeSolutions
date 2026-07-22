@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/jb-git-code/LeetCodeSolutions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/jb-git-code/LeetCodeSolutions/tree/master/0055-jump-game) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/jb-git-code/LeetCodeSolutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0204-count-primes](https://github.com/jb-git-code/LeetCodeSolutions/tree/master/0204-count-primes) |
 | [0455-assign-cookies](https://github.com/jb-git-code/LeetCodeSolutions/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/jb-git-code/LeetCodeSolutions/tree/master/0860-lemonade-change) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/jb-git-code/LeetCodeSolutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -85,4 +86,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/jb-git-code/LeetCodeSolutions/tree/master/0039-combination-sum) |
+## Math
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/jb-git-code/LeetCodeSolutions/tree/master/0204-count-primes) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/jb-git-code/LeetCodeSolutions/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/jb-git-code/LeetCodeSolutions/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
