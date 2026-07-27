@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/jb-git-code/LeetCodeSolutions/tree/master/0008-string-to-integer-atoi) |
+| [0020-valid-parentheses](https://github.com/jb-git-code/LeetCodeSolutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/jb-git-code/LeetCodeSolutions/tree/master/0022-generate-parentheses) |
 | [0242-valid-anagram](https://github.com/jb-git-code/LeetCodeSolutions/tree/master/0242-valid-anagram) |
 | [0678-valid-parenthesis-string](https://github.com/jb-git-code/LeetCodeSolutions/tree/master/0678-valid-parenthesis-string) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/jb-git-code/LeetCodeSolutions/tree/master/0020-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/jb-git-code/LeetCodeSolutions/tree/master/0678-valid-parenthesis-string) |
 ## Divide and Conquer
 |  |
