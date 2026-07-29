@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/jb-git-code/LeetCodeSolutions/tree/master/0135-candy) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/jb-git-code/LeetCodeSolutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0204-count-primes](https://github.com/jb-git-code/LeetCodeSolutions/tree/master/0204-count-primes) |
+| [0410-split-array-largest-sum](https://github.com/jb-git-code/LeetCodeSolutions/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/jb-git-code/LeetCodeSolutions/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/jb-git-code/LeetCodeSolutions/tree/master/0860-lemonade-change) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/jb-git-code/LeetCodeSolutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/jb-git-code/LeetCodeSolutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0410-split-array-largest-sum](https://github.com/jb-git-code/LeetCodeSolutions/tree/master/0410-split-array-largest-sum) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/jb-git-code/LeetCodeSolutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/jb-git-code/LeetCodeSolutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1539-kth-missing-positive-number](https://github.com/jb-git-code/LeetCodeSolutions/tree/master/1539-kth-missing-positive-number) |
@@ -38,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/jb-git-code/LeetCodeSolutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/jb-git-code/LeetCodeSolutions/tree/master/0055-jump-game) |
 | [0135-candy](https://github.com/jb-git-code/LeetCodeSolutions/tree/master/0135-candy) |
+| [0410-split-array-largest-sum](https://github.com/jb-git-code/LeetCodeSolutions/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/jb-git-code/LeetCodeSolutions/tree/master/0455-assign-cookies) |
 | [0678-valid-parenthesis-string](https://github.com/jb-git-code/LeetCodeSolutions/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/jb-git-code/LeetCodeSolutions/tree/master/0860-lemonade-change) |
@@ -63,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/jb-git-code/LeetCodeSolutions/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/jb-git-code/LeetCodeSolutions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/jb-git-code/LeetCodeSolutions/tree/master/0055-jump-game) |
+| [0410-split-array-largest-sum](https://github.com/jb-git-code/LeetCodeSolutions/tree/master/0410-split-array-largest-sum) |
 | [0678-valid-parenthesis-string](https://github.com/jb-git-code/LeetCodeSolutions/tree/master/0678-valid-parenthesis-string) |
 ## Stack
 |  |
@@ -90,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/jb-git-code/LeetCodeSolutions/tree/master/0410-split-array-largest-sum) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/jb-git-code/LeetCodeSolutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Backtracking
 |  |
