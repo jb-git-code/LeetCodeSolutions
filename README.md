@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/jb-git-code/LeetCodeSolutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/jb-git-code/LeetCodeSolutions/tree/master/0022-generate-parentheses) |
 | [0242-valid-anagram](https://github.com/jb-git-code/LeetCodeSolutions/tree/master/0242-valid-anagram) |
+| [0257-binary-tree-paths](https://github.com/jb-git-code/LeetCodeSolutions/tree/master/0257-binary-tree-paths) |
 | [0451-sort-characters-by-frequency](https://github.com/jb-git-code/LeetCodeSolutions/tree/master/0451-sort-characters-by-frequency) |
 | [0678-valid-parenthesis-string](https://github.com/jb-git-code/LeetCodeSolutions/tree/master/0678-valid-parenthesis-string) |
 | [0796-rotate-string](https://github.com/jb-git-code/LeetCodeSolutions/tree/master/0796-rotate-string) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/jb-git-code/LeetCodeSolutions/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/jb-git-code/LeetCodeSolutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/jb-git-code/LeetCodeSolutions/tree/master/0040-combination-sum-ii) |
+| [0257-binary-tree-paths](https://github.com/jb-git-code/LeetCodeSolutions/tree/master/0257-binary-tree-paths) |
 ## Math
 |  |
 | ------- |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/jb-git-code/LeetCodeSolutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/jb-git-code/LeetCodeSolutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/jb-git-code/LeetCodeSolutions/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/jb-git-code/LeetCodeSolutions/tree/master/0257-binary-tree-paths) |
 | [0993-cousins-in-binary-tree](https://github.com/jb-git-code/LeetCodeSolutions/tree/master/0993-cousins-in-binary-tree) |
 ## Depth-First Search
 |  |
@@ -159,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/jb-git-code/LeetCodeSolutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/jb-git-code/LeetCodeSolutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/jb-git-code/LeetCodeSolutions/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/jb-git-code/LeetCodeSolutions/tree/master/0257-binary-tree-paths) |
 | [0993-cousins-in-binary-tree](https://github.com/jb-git-code/LeetCodeSolutions/tree/master/0993-cousins-in-binary-tree) |
 ## Binary Tree
 |  |
@@ -169,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/jb-git-code/LeetCodeSolutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/jb-git-code/LeetCodeSolutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/jb-git-code/LeetCodeSolutions/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/jb-git-code/LeetCodeSolutions/tree/master/0257-binary-tree-paths) |
 | [0993-cousins-in-binary-tree](https://github.com/jb-git-code/LeetCodeSolutions/tree/master/0993-cousins-in-binary-tree) |
 ## Breadth-First Search
 |  |
