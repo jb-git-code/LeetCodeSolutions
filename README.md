@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/jb-git-code/LeetCodeSolutions/tree/master/0204-count-primes) |
 | [0410-split-array-largest-sum](https://github.com/jb-git-code/LeetCodeSolutions/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/jb-git-code/LeetCodeSolutions/tree/master/0455-assign-cookies) |
+| [0654-maximum-binary-tree](https://github.com/jb-git-code/LeetCodeSolutions/tree/master/0654-maximum-binary-tree) |
 | [0860-lemonade-change](https://github.com/jb-git-code/LeetCodeSolutions/tree/master/0860-lemonade-change) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/jb-git-code/LeetCodeSolutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/jb-git-code/LeetCodeSolutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -85,11 +86,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/jb-git-code/LeetCodeSolutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/jb-git-code/LeetCodeSolutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/jb-git-code/LeetCodeSolutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0654-maximum-binary-tree](https://github.com/jb-git-code/LeetCodeSolutions/tree/master/0654-maximum-binary-tree) |
 | [0678-valid-parenthesis-string](https://github.com/jb-git-code/LeetCodeSolutions/tree/master/0678-valid-parenthesis-string) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/jb-git-code/LeetCodeSolutions/tree/master/0053-maximum-subarray) |
+| [0654-maximum-binary-tree](https://github.com/jb-git-code/LeetCodeSolutions/tree/master/0654-maximum-binary-tree) |
 ## Hash Table
 |  |
 | ------- |
@@ -160,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/jb-git-code/LeetCodeSolutions/tree/master/0257-binary-tree-paths) |
 | [0563-binary-tree-tilt](https://github.com/jb-git-code/LeetCodeSolutions/tree/master/0563-binary-tree-tilt) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/jb-git-code/LeetCodeSolutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0654-maximum-binary-tree](https://github.com/jb-git-code/LeetCodeSolutions/tree/master/0654-maximum-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/jb-git-code/LeetCodeSolutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/jb-git-code/LeetCodeSolutions/tree/master/0938-range-sum-of-bst) |
 | [0965-univalued-binary-tree](https://github.com/jb-git-code/LeetCodeSolutions/tree/master/0965-univalued-binary-tree) |
@@ -192,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/jb-git-code/LeetCodeSolutions/tree/master/0257-binary-tree-paths) |
 | [0563-binary-tree-tilt](https://github.com/jb-git-code/LeetCodeSolutions/tree/master/0563-binary-tree-tilt) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/jb-git-code/LeetCodeSolutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0654-maximum-binary-tree](https://github.com/jb-git-code/LeetCodeSolutions/tree/master/0654-maximum-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/jb-git-code/LeetCodeSolutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/jb-git-code/LeetCodeSolutions/tree/master/0938-range-sum-of-bst) |
 | [0965-univalued-binary-tree](https://github.com/jb-git-code/LeetCodeSolutions/tree/master/0965-univalued-binary-tree) |
@@ -215,4 +220,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/jb-git-code/LeetCodeSolutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/jb-git-code/LeetCodeSolutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/jb-git-code/LeetCodeSolutions/tree/master/0938-range-sum-of-bst) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0654-maximum-binary-tree](https://github.com/jb-git-code/LeetCodeSolutions/tree/master/0654-maximum-binary-tree) |
+## Cartesian Tree
+|  |
+| ------- |
+| [0654-maximum-binary-tree](https://github.com/jb-git-code/LeetCodeSolutions/tree/master/0654-maximum-binary-tree) |
 <!---LeetCode Topics End-->
