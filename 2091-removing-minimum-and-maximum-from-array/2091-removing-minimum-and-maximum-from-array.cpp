@@ -17,19 +17,13 @@ public:
             }
         }
 
-        int del1 = 0  , del2 = 0 , del3 = 0;
-        if(minIndex < maxIndex) {
-            del1 = maxIndex + 1;
-            del2 = minIndex + 1 + (n - maxIndex);
-            del3 = n - minIndex;
-        }else{
-            del1 = minIndex + 1;
-            del2 = maxIndex + 1 + (n - minIndex);
-            del3 = n - maxIndex;
-        }
+        int first = min(minIndex , maxIndex);
+        int second = max(minIndex , maxIndex);
 
-        ans = min(del1 , min(del2 , del3));
-
+        int front = second + 1;
+        int back = n - first ;
+        int para = first + 1 + (n - second);
+        ans = min({front , back , para});
         return ans;
     }
 };
