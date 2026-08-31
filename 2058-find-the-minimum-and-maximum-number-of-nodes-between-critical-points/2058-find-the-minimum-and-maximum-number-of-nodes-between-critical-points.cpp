@@ -11,40 +11,38 @@
 class Solution {
 public:
     vector<int> nodesBetweenCriticalPoints(ListNode* head) {
-        vector<int> arr;
-        while(head != nullptr){
-            arr.push_back(head -> val);
-            head = head -> next;
-        }
+        int firstIdx= -1 , prevIdx = -1;
+        int idx = 1;
 
-        vector<int> dis;
+        ListNode* prev = head;    
+        ListNode* curr = head -> next;
 
-        for(int i = 0 ; i < arr.size() ; i++){
-            if(i > 0 && i < arr.size() - 1){
+        int mn = INT_MAX;
 
-                if(arr[i] > arr[i-1] && arr[i] > arr[i+1]){
-                    dis.push_back(i+1);
+        while(curr -> next != NULL && curr != NULL){
+            bool maxima = (curr -> val > prev -> val && curr -> next -> val < curr -> val);
+
+            bool minima = (curr -> val < prev -> val && curr -> val < curr -> next -> val);
+
+            if(maxima || minima){
+                if(firstIdx == -1){
+                    firstIdx = idx;
+                    prevIdx= firstIdx;
                 }
-                if(arr[i] < arr[i-1] && arr[i] < arr[i+1]){
-                    dis.push_back(i+1);
+                else{
+
+                    mn = min(mn , idx - prevIdx );
+                    prevIdx = idx;
                 }
             }
+
+            idx++;
+            prev = curr;
+            curr = curr -> next;
         }
 
+        if(firstIdx == -1 || prevIdx == firstIdx) return {-1,-1};
 
-        if(dis.size() < 2) return {-1,-1};
-
-        if(dis.size() == 2) return {abs(dis[0] - dis[1]),abs(dis[0] - dis[1])};
-
-        vector<int> ans(2);
-        
-        int mn = INT_MAX;
-        for(int i = 1 ; i < dis.size() ; i++){
-
-            mn = min(mn ,dis[i] -  dis[i-1] );
-        }
-        ans[0] = mn;
-        ans[1] = dis[dis.size() - 1] - dis[0];
-        return ans;
-     }
+        return {mn , prevIdx - firstIdx};
+    }
 };
