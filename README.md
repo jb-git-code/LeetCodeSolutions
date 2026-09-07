@@ -248,4 +248,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/jb-git-code/LeetCodeSolutions/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
+## Graph Theory
+|  |
+| ------- |
+| [1791-find-center-of-star-graph](https://github.com/jb-git-code/LeetCodeSolutions/tree/master/1791-find-center-of-star-graph) |
 <!---LeetCode Topics End-->
