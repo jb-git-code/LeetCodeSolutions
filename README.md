@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/jb-git-code/LeetCodeSolutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1539-kth-missing-positive-number](https://github.com/jb-git-code/LeetCodeSolutions/tree/master/1539-kth-missing-positive-number) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/jb-git-code/LeetCodeSolutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [3483-unique-3-digit-even-numbers](https://github.com/jb-git-code/LeetCodeSolutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3875-construct-uniform-parity-array-i](https://github.com/jb-git-code/LeetCodeSolutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/jb-git-code/LeetCodeSolutions/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/jb-git-code/LeetCodeSolutions/tree/master/3903-smallest-stable-index-i) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/jb-git-code/LeetCodeSolutions/tree/master/0451-sort-characters-by-frequency) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/jb-git-code/LeetCodeSolutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/jb-git-code/LeetCodeSolutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [3483-unique-3-digit-even-numbers](https://github.com/jb-git-code/LeetCodeSolutions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Sliding Window
 |  |
 | ------- |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/jb-git-code/LeetCodeSolutions/tree/master/0204-count-primes) |
+| [3483-unique-3-digit-even-numbers](https://github.com/jb-git-code/LeetCodeSolutions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Number Theory
 |  |
 | ------- |
@@ -257,4 +260,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1791-find-center-of-star-graph](https://github.com/jb-git-code/LeetCodeSolutions/tree/master/1791-find-center-of-star-graph) |
+## Recursion
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/jb-git-code/LeetCodeSolutions/tree/master/3483-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
