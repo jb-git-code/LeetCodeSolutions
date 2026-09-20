@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/jb-git-code/LeetCodeSolutions/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/jb-git-code/LeetCodeSolutions/tree/master/0455-assign-cookies) |
 | [0654-maximum-binary-tree](https://github.com/jb-git-code/LeetCodeSolutions/tree/master/0654-maximum-binary-tree) |
+| [0746-min-cost-climbing-stairs](https://github.com/jb-git-code/LeetCodeSolutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0835-image-overlap](https://github.com/jb-git-code/LeetCodeSolutions/tree/master/0835-image-overlap) |
 | [0860-lemonade-change](https://github.com/jb-git-code/LeetCodeSolutions/tree/master/0860-lemonade-change) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/jb-git-code/LeetCodeSolutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/jb-git-code/LeetCodeSolutions/tree/master/0055-jump-game) |
 | [0410-split-array-largest-sum](https://github.com/jb-git-code/LeetCodeSolutions/tree/master/0410-split-array-largest-sum) |
 | [0678-valid-parenthesis-string](https://github.com/jb-git-code/LeetCodeSolutions/tree/master/0678-valid-parenthesis-string) |
+| [0746-min-cost-climbing-stairs](https://github.com/jb-git-code/LeetCodeSolutions/tree/master/0746-min-cost-climbing-stairs) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/jb-git-code/LeetCodeSolutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 ## Stack
 |  |
