@@ -2,28 +2,37 @@ class Solution {
 public:
     int rob(vector<int>& nums) {
         int n = nums.size();
-        if (n == 1) return nums[0];
+        if (n == 1)
+            return nums[0];
 
-        vector<int> sub1(nums.begin(), nums.begin() + n - 1);
-        vector<int> sub2(nums.begin() + 1, nums.end());       
+        vector<int> first;
+        vector<int> second;
 
-        vector<int> dp1(sub1.size(), -1);
-        vector<int> dp2(sub2.size(), -1);
+        for (int i = 0; i < n; i++) {
+            if (i != n - 1)
+                first.push_back(nums[i]);
+            if (i != 0)
+                second.push_back(nums[i]);
+        }
 
-        int ans1 = solve(sub1, sub1.size() - 1, dp1);
-        int ans2 = solve(sub2, sub2.size() - 1, dp2);
-
-        return max(ans1, ans2);
+        return max(solve(first) , solve(second));
     }
 
-    int solve(vector<int>& arr, int n, vector<int>& dp) {
-        if (n < 0) return 0;
-        if (n == 0) return arr[0];
-        if (dp[n] != -1) return dp[n];
+    int solve(vector<int>& arr) {
+        int n = arr.size();
+        if (n == 1)
+            return arr[0];
+        long long int prev1 = arr[0];
+        long long int prev2 = 0;
 
-        int take = arr[n] + solve(arr, n - 2, dp);
-        int leave = 0 + solve(arr, n - 1, dp);
+        for (int i = 1; i < n; i++) {
+            long long int inc = arr[i] + prev2;
+            long long int exc = 0 + prev1;
 
-        return dp[n] = max(take, leave);
+            prev2 = prev1;
+            prev1 = max(inc, exc);
+        }
+
+        return prev1;
     }
 };
