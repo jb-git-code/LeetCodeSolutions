@@ -1,29 +1,22 @@
 class Solution {
 public:
-
-    void solve(vector<string> &res, int n, int left, int right, string s)
-    {
-        if(s.size() == 2*n)
-        {
-            res.push_back(s);
-            return;
-        }
-        if(left < n)
-        {
-            solve(res, n, left+1, right, s+'(');
-        }
-
-        if(right < left)
-        {
-            solve(res, n, left, right+1, s+')');
-        }
-    }
-
-    vector<string> generateParenthesis(int n)
-    {
+    vector<string> generateParenthesis(int n) {
         vector<string> res;
-        string s = "";
-        solve(res, n, 0, 0, s);
+        solve(res , n , n , "");
         return res;
     }
+
+    void solve(vector<string> &arr , int s , int e , string str){
+        if(s > e) return;
+        if(s == 0 && e == 0){
+            arr.push_back(str);
+            return;
+        }
+        if(s > 0) solve(arr,s-1,e,str+'(');
+        if( e > 0) solve(arr,s ,e-1,str + ')');
+    }
 };
+
+// Synced seamlessly with LeetHub Pro
+// Pro features: https://bit.ly/leethubpro | Free version: https://bit.ly/leethubv4
+// Get it here: https://chromewebstore.google.com/detail/bcilpkkbokcopmabingnndookdogmbna
