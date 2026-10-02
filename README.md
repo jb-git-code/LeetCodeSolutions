@@ -294,4 +294,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3498-reverse-degree-of-a-string](https://github.com/jb-git-code/LeetCodeSolutions/tree/master/3498-reverse-degree-of-a-string) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/jb-git-code/LeetCodeSolutions/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
