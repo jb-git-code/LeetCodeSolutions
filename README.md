@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/jb-git-code/LeetCodeSolutions/tree/master/0455-assign-cookies) |
 | [0678-valid-parenthesis-string](https://github.com/jb-git-code/LeetCodeSolutions/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/jb-git-code/LeetCodeSolutions/tree/master/0860-lemonade-change) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/jb-git-code/LeetCodeSolutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/jb-git-code/LeetCodeSolutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Sorting
 |  |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/jb-git-code/LeetCodeSolutions/tree/master/0678-valid-parenthesis-string) |
 | [0796-rotate-string](https://github.com/jb-git-code/LeetCodeSolutions/tree/master/0796-rotate-string) |
 | [0856-score-of-parentheses](https://github.com/jb-git-code/LeetCodeSolutions/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/jb-git-code/LeetCodeSolutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/jb-git-code/LeetCodeSolutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/jb-git-code/LeetCodeSolutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/jb-git-code/LeetCodeSolutions/tree/master/3498-reverse-degree-of-a-string) |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0654-maximum-binary-tree](https://github.com/jb-git-code/LeetCodeSolutions/tree/master/0654-maximum-binary-tree) |
 | [0678-valid-parenthesis-string](https://github.com/jb-git-code/LeetCodeSolutions/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/jb-git-code/LeetCodeSolutions/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/jb-git-code/LeetCodeSolutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -306,4 +309,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/jb-git-code/LeetCodeSolutions/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/jb-git-code/LeetCodeSolutions/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/jb-git-code/LeetCodeSolutions/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/jb-git-code/LeetCodeSolutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 <!---LeetCode Topics End-->
