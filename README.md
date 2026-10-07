@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/jb-git-code/LeetCodeSolutions/tree/master/0032-longest-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/jb-git-code/LeetCodeSolutions/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/jb-git-code/LeetCodeSolutions/tree/master/0257-binary-tree-paths) |
+| [0301-remove-invalid-parentheses](https://github.com/jb-git-code/LeetCodeSolutions/tree/master/0301-remove-invalid-parentheses) |
 | [0451-sort-characters-by-frequency](https://github.com/jb-git-code/LeetCodeSolutions/tree/master/0451-sort-characters-by-frequency) |
 | [0678-valid-parenthesis-string](https://github.com/jb-git-code/LeetCodeSolutions/tree/master/0678-valid-parenthesis-string) |
 | [0796-rotate-string](https://github.com/jb-git-code/LeetCodeSolutions/tree/master/0796-rotate-string) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/jb-git-code/LeetCodeSolutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/jb-git-code/LeetCodeSolutions/tree/master/0040-combination-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/jb-git-code/LeetCodeSolutions/tree/master/0257-binary-tree-paths) |
+| [0301-remove-invalid-parentheses](https://github.com/jb-git-code/LeetCodeSolutions/tree/master/0301-remove-invalid-parentheses) |
 ## Math
 |  |
 | ------- |
@@ -258,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/jb-git-code/LeetCodeSolutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/jb-git-code/LeetCodeSolutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/jb-git-code/LeetCodeSolutions/tree/master/0226-invert-binary-tree) |
+| [0301-remove-invalid-parentheses](https://github.com/jb-git-code/LeetCodeSolutions/tree/master/0301-remove-invalid-parentheses) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/jb-git-code/LeetCodeSolutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0655-print-binary-tree](https://github.com/jb-git-code/LeetCodeSolutions/tree/master/0655-print-binary-tree) |
 | [0965-univalued-binary-tree](https://github.com/jb-git-code/LeetCodeSolutions/tree/master/0965-univalued-binary-tree) |
