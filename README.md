@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/jb-git-code/LeetCodeSolutions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3483-unique-3-digit-even-numbers](https://github.com/jb-git-code/LeetCodeSolutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/jb-git-code/LeetCodeSolutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/jb-git-code/LeetCodeSolutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3875-construct-uniform-parity-array-i](https://github.com/jb-git-code/LeetCodeSolutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/jb-git-code/LeetCodeSolutions/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/jb-git-code/LeetCodeSolutions/tree/master/3903-smallest-stable-index-i) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/jb-git-code/LeetCodeSolutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/jb-git-code/LeetCodeSolutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/jb-git-code/LeetCodeSolutions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/jb-git-code/LeetCodeSolutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Sorting
 |  |
 | ------- |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/jb-git-code/LeetCodeSolutions/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/jb-git-code/LeetCodeSolutions/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/jb-git-code/LeetCodeSolutions/tree/master/0455-assign-cookies) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/jb-git-code/LeetCodeSolutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## String
 |  |
 | ------- |
