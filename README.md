@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/jb-git-code/LeetCodeSolutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/jb-git-code/LeetCodeSolutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/jb-git-code/LeetCodeSolutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [2409-count-days-spent-together](https://github.com/jb-git-code/LeetCodeSolutions/tree/master/2409-count-days-spent-together) |
 | [3498-reverse-degree-of-a-string](https://github.com/jb-git-code/LeetCodeSolutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/jb-git-code/LeetCodeSolutions/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Dynamic Programming
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/jb-git-code/LeetCodeSolutions/tree/master/0204-count-primes) |
 | [0836-rectangle-overlap](https://github.com/jb-git-code/LeetCodeSolutions/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/jb-git-code/LeetCodeSolutions/tree/master/1401-circle-and-rectangle-overlapping) |
+| [2409-count-days-spent-together](https://github.com/jb-git-code/LeetCodeSolutions/tree/master/2409-count-days-spent-together) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/jb-git-code/LeetCodeSolutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/jb-git-code/LeetCodeSolutions/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3870-count-commas-in-range](https://github.com/jb-git-code/LeetCodeSolutions/tree/master/3870-count-commas-in-range) |
