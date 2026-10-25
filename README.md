@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0835-image-overlap](https://github.com/jb-git-code/LeetCodeSolutions/tree/master/0835-image-overlap) |
 | [0860-lemonade-change](https://github.com/jb-git-code/LeetCodeSolutions/tree/master/0860-lemonade-change) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/jb-git-code/LeetCodeSolutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1254-number-of-closed-islands](https://github.com/jb-git-code/LeetCodeSolutions/tree/master/1254-number-of-closed-islands) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/jb-git-code/LeetCodeSolutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/jb-git-code/LeetCodeSolutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/jb-git-code/LeetCodeSolutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/jb-git-code/LeetCodeSolutions/tree/master/0074-search-a-2d-matrix) |
 | [0835-image-overlap](https://github.com/jb-git-code/LeetCodeSolutions/tree/master/0835-image-overlap) |
+| [1254-number-of-closed-islands](https://github.com/jb-git-code/LeetCodeSolutions/tree/master/1254-number-of-closed-islands) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -260,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0938-range-sum-of-bst](https://github.com/jb-git-code/LeetCodeSolutions/tree/master/0938-range-sum-of-bst) |
 | [0965-univalued-binary-tree](https://github.com/jb-git-code/LeetCodeSolutions/tree/master/0965-univalued-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/jb-git-code/LeetCodeSolutions/tree/master/0993-cousins-in-binary-tree) |
+| [1254-number-of-closed-islands](https://github.com/jb-git-code/LeetCodeSolutions/tree/master/1254-number-of-closed-islands) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/jb-git-code/LeetCodeSolutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
@@ -293,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0655-print-binary-tree](https://github.com/jb-git-code/LeetCodeSolutions/tree/master/0655-print-binary-tree) |
 | [0965-univalued-binary-tree](https://github.com/jb-git-code/LeetCodeSolutions/tree/master/0965-univalued-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/jb-git-code/LeetCodeSolutions/tree/master/0993-cousins-in-binary-tree) |
+| [1254-number-of-closed-islands](https://github.com/jb-git-code/LeetCodeSolutions/tree/master/1254-number-of-closed-islands) |
 ## DP on Trees
 |  |
 | ------- |
@@ -356,4 +360,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/jb-git-code/LeetCodeSolutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Union-Find
+|  |
+| ------- |
+| [1254-number-of-closed-islands](https://github.com/jb-git-code/LeetCodeSolutions/tree/master/1254-number-of-closed-islands) |
 <!---LeetCode Topics End-->
