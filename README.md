@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3483-unique-3-digit-even-numbers](https://github.com/jb-git-code/LeetCodeSolutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/jb-git-code/LeetCodeSolutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/jb-git-code/LeetCodeSolutions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/jb-git-code/LeetCodeSolutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/jb-git-code/LeetCodeSolutions/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/jb-git-code/LeetCodeSolutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3875-construct-uniform-parity-array-i](https://github.com/jb-git-code/LeetCodeSolutions/tree/master/3875-construct-uniform-parity-array-i) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/jb-git-code/LeetCodeSolutions/tree/master/0074-search-a-2d-matrix) |
 | [0835-image-overlap](https://github.com/jb-git-code/LeetCodeSolutions/tree/master/0835-image-overlap) |
 | [1254-number-of-closed-islands](https://github.com/jb-git-code/LeetCodeSolutions/tree/master/1254-number-of-closed-islands) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/jb-git-code/LeetCodeSolutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -264,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0993-cousins-in-binary-tree](https://github.com/jb-git-code/LeetCodeSolutions/tree/master/0993-cousins-in-binary-tree) |
 | [1254-number-of-closed-islands](https://github.com/jb-git-code/LeetCodeSolutions/tree/master/1254-number-of-closed-islands) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/jb-git-code/LeetCodeSolutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/jb-git-code/LeetCodeSolutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Binary Tree
 |  |
 | ------- |
@@ -297,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0965-univalued-binary-tree](https://github.com/jb-git-code/LeetCodeSolutions/tree/master/0965-univalued-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/jb-git-code/LeetCodeSolutions/tree/master/0993-cousins-in-binary-tree) |
 | [1254-number-of-closed-islands](https://github.com/jb-git-code/LeetCodeSolutions/tree/master/1254-number-of-closed-islands) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/jb-git-code/LeetCodeSolutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## DP on Trees
 |  |
 | ------- |
@@ -364,4 +368,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/jb-git-code/LeetCodeSolutions/tree/master/1254-number-of-closed-islands) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/jb-git-code/LeetCodeSolutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 <!---LeetCode Topics End-->
