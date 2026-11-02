@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/jb-git-code/LeetCodeSolutions/tree/master/0213-house-robber-ii) |
 | [0410-split-array-largest-sum](https://github.com/jb-git-code/LeetCodeSolutions/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/jb-git-code/LeetCodeSolutions/tree/master/0455-assign-cookies) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/jb-git-code/LeetCodeSolutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0654-maximum-binary-tree](https://github.com/jb-git-code/LeetCodeSolutions/tree/master/0654-maximum-binary-tree) |
 | [0746-min-cost-climbing-stairs](https://github.com/jb-git-code/LeetCodeSolutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0835-image-overlap](https://github.com/jb-git-code/LeetCodeSolutions/tree/master/0835-image-overlap) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/jb-git-code/LeetCodeSolutions/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/jb-git-code/LeetCodeSolutions/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/jb-git-code/LeetCodeSolutions/tree/master/0455-assign-cookies) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/jb-git-code/LeetCodeSolutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/jb-git-code/LeetCodeSolutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/jb-git-code/LeetCodeSolutions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/jb-git-code/LeetCodeSolutions/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/jb-git-code/LeetCodeSolutions/tree/master/0204-count-primes) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/jb-git-code/LeetCodeSolutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0836-rectangle-overlap](https://github.com/jb-git-code/LeetCodeSolutions/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/jb-git-code/LeetCodeSolutions/tree/master/1401-circle-and-rectangle-overlapping) |
 | [2409-count-days-spent-together](https://github.com/jb-git-code/LeetCodeSolutions/tree/master/2409-count-days-spent-together) |
